@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">Hospital Manager</string><string name="home">Home</string><string name="patients">Patients</string><string name="doctors">Doctors</string><string name="appts">Appointments</string>
+<string name="name">Name</string><string name="phone">Phone</string><string name="save">Save</string><string name="cancel">Cancel</string>
+<string name="specialty">Specialty</string><string name="city">City</string><string name="fee">Fee</string><string name="verified">Verified</string><string name="unverified">Unverified</string><string name="date">Date (YYYY-MM-DD)</string><string name="required">Required field</string>
+</resources>

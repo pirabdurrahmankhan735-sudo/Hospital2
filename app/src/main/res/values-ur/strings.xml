@@ -1,0 +1,5 @@
+<resources>
+<string name="app name">ہسپتال مینیجر</string><string name="home">ہوم</string><string name="patients">مریض</string><string name="doctors">ڈاکٹرز</string><string name="appts">اپائنٹمنٹس</string>
+<string name="name">نام</string><string name="phone">فون</string><string name="save">محفوظ کریں</string><string name="cancel">منسوخ</string>
+<string name="specialty">شعبہ</string><string name="city">شہر</string><string name="fee">فیس</string><string name="verified">تصدیق شدہ</string><string name="unverified">غیر تصدیق شدہ</string><string name="date">تاریخ (YYYY-MM-DD)</string><string name="required">یہ خانہ ضروری ہے</string>
+</resources>
